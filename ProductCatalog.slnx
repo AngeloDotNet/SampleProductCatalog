@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="docker-compose.yml" />
+    <File Path="global.json" />
+    <File Path="Structure.md" />
+  </Folder>
+  <Project Path="src/ProductCatalog.API/ProductCatalog.API.csproj" Id="a4f7435b-9c29-4ae3-b5ab-def7f1e075bd" />
+  <Project Path="src/ProductCatalog.Application/ProductCatalog.Application.csproj" Id="f0254357-c3db-49fe-b0ec-30a6ba4cbd46" />
+  <Project Path="src/ProductCatalog.Domain/ProductCatalog.Domain.csproj" Id="5e2bb7ba-87c9-4bcd-a684-9bcbe4fd90bc" />
+  <Project Path="src/ProductCatalog.Infrastructure/ProductCatalog.Infrastructure.csproj" Id="2aaf1e2e-40d5-4f35-8391-b8bf6e0b8c01" />
+</Solution>
